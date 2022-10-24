@@ -10,9 +10,9 @@ public class Main {
 		String str = "";
 
 		for (int i = 0; i < n; i++) {
-      // 정수를 이진형식의 문자열로 반환
+      			// 정수를 이진형식의 문자열로 반환
 			str = Integer.toBinaryString(arr1[i] | arr2[i]); // 비트 OR 연산자
-      // 자릿수 맞추기
+      			// 자릿수 맞추기
 			if (str.length() != n) {
 				str = "0".repeat(n - str.length()) + str;
 			}
@@ -21,10 +21,10 @@ public class Main {
 			answer[i] = str;
 		}
     
-    for(String a : answer) {
-        System.out.println(a);
-    }
+    		for(String a : answer) {
+        		System.out.println(a);
+    		}
     
-  }
+  	}
   
 }
