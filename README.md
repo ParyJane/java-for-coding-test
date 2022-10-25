@@ -1,6 +1,8 @@
 ## 코딩테스트 준비 with Java
 
 ### ⚾️ 백준
+* Silver
+  - [카드 놓기](https://www.acmicpc.net/problem/5568): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/5568.java) / [문제 풀이](https://www.notion.so/5568-4578dfe3ddd34a29b482f87a4177f797))
 
 
 
