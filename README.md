@@ -7,6 +7,7 @@
 * Silver
   - [카드 놓기](https://www.acmicpc.net/problem/5568): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/5568.java) / [문제 풀이](https://www.notion.so/5568-4578dfe3ddd34a29b482f87a4177f797))
   - [DFS와 BFS](https://www.acmicpc.net/problem/1260): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1260.java) / [문제 풀이](https://www.notion.so/DFS-BFS-76bfaa8524de41798e3a4f69e1c3db16))
+  - [미로 탐색](https://www.acmicpc.net/problem/2178): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/2178.java) / [문제 풀이](https://www.notion.so/d32762c653e345db86c379c99e85975a))
 
 
 
