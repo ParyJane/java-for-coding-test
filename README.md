@@ -15,7 +15,7 @@
 ### 🏀 프로그래머스
 * Level. 0
   - [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817): ([Java 코드1](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/AverageValueOfArray1.java) / [Java 코드2](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/AverageValueOfArray2.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7236ed2f2284e349ceaebde3a94743e))
-  - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/tree/main/programmers/0) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/8300135acf734fd5b65e997bcb642ac4))
+  - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/TheSumOfFractions.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/8300135acf734fd5b65e997bcb642ac4))
 * Level. 1
   - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/1.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/1-461e425d06394e5d9e2403aa164e83a8))
   - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/2.java))
