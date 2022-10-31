@@ -9,6 +9,7 @@
   - [DFS와 BFS](https://www.acmicpc.net/problem/1260): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1260.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/DFS-BFS-76bfaa8524de41798e3a4f69e1c3db16))
   - [미로 탐색](https://www.acmicpc.net/problem/2178): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/2178.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/d32762c653e345db86c379c99e85975a))
   - [숨바꼭질](https://www.acmicpc.net/problem/1697): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1697.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/abf1a3e0c69244f38104c1d296d8b690))
+  - [유기농 배추](https://www.acmicpc.net/problem/1012): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1012.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/babb31d6092949ebb05047ce40334ec5))
 
 
 
