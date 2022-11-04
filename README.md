@@ -25,6 +25,7 @@
   - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/2.java))
 * Level. 2
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/TargetNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7da11b5793d4d828feaad7911e179a1))
+  - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120833.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/4d5b684e82cc4c82af11a1e3606001f2))
   
   
 ### 🎱 etc
