@@ -4,6 +4,7 @@
 * Bronze
   - [피보나치 수 5](https://www.acmicpc.net/problem/10870): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/bronze/10870.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/5-157aeb7a482e4db0b504966c10151df2))
   - [팩토리얼](https://www.acmicpc.net/problem/10872): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/bronze/10872.java))
+  
 * Silver
   - [카드 놓기](https://www.acmicpc.net/problem/5568): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/5568.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/5568-4578dfe3ddd34a29b482f87a4177f797))
   - [DFS와 BFS](https://www.acmicpc.net/problem/1260): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1260.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/DFS-BFS-76bfaa8524de41798e3a4f69e1c3db16))
@@ -20,12 +21,14 @@
   - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/TheSumOfFractions.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/8300135acf734fd5b65e997bcb642ac4))
   - [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/arrayReverse.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/a11363e540e241e69e20f11bc15b4709))
   - [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120812.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/60dd9c0e5753451bbd0d18b4fa682ced))
+  - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120833.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/4d5b684e82cc4c82af11a1e3606001f2))
+  
 * Level. 1
   - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/1.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/1-461e425d06394e5d9e2403aa164e83a8))
   - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/2.java))
+  
 * Level. 2
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/TargetNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7da11b5793d4d828feaad7911e179a1))
-  - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120833.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/4d5b684e82cc4c82af11a1e3606001f2))
   
   
 ### 🎱 etc
