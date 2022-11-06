@@ -35,7 +35,7 @@ public class silver_11724 {
 				node2 = temp;
 			}
 			graph.get(node1).add(node2);
-            graph.get(node2).add(node1);
+            		graph.get(node2).add(node1);
 		}
 		
 		int cnt = 0;
@@ -55,8 +55,8 @@ public class silver_11724 {
 		visited[index] = true;
 		
 		for(int i = 0; i < graph.get(index).size(); i++) {
-            int node = graph.get(index).get(i);
-            if(!visited[node]) dfs(node);
+            	int node = graph.get(index).get(i);
+            	if(!visited[node]) dfs(node);
         }
 		
 		return true;
