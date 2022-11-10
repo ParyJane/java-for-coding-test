@@ -25,6 +25,7 @@
   - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120833.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/4d5b684e82cc4c82af11a1e3606001f2))
   - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120908.java))
   - [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=java): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120904.java))
+  - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120852.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f01039e519d94e879e88d4f1798d66fa))
   
 * Level. 1
   - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/1.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/1-461e425d06394e5d9e2403aa164e83a8))
