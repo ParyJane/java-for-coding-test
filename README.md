@@ -13,6 +13,7 @@
   - [유기농 배추](https://www.acmicpc.net/problem/1012): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1012.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/babb31d6092949ebb05047ce40334ec5))
   - [연결 요소의 개수](https://www.acmicpc.net/problem/11724): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/11724.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/145affb42cf442efb6e3e22df4a3cd40))
   - [단어 정렬](https://www.acmicpc.net/problem/1181): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/1181.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/1ad69171e9544bda9e6200b00fb02f1d))
+  - [단지번호붙이기](https://www.acmicpc.net/problem/2667): ([Java 코드]() / [문제 풀이]())
 
 
 
@@ -26,6 +27,7 @@
   - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120908.java))
   - [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=java): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120904.java))
   - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120852.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f01039e519d94e879e88d4f1798d66fa))
+  - [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120849.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/c430d356ed0a4a6ca62da4286fed43df))
   
 * Level. 1
   - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/1.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/1-461e425d06394e5d9e2403aa164e83a8))
