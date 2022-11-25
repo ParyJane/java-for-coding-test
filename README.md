@@ -38,6 +38,7 @@
   
 * Level. 2
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/TargetNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7da11b5793d4d828feaad7911e179a1))
+  - [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/FindPrimeNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f5c6081d79ea4fc09aadc418346243af))
   
   
 ### 🎱 etc
