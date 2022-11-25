@@ -11,12 +11,12 @@ class Solution {
         int answer = 0;
         arr = numbers.split("");
         
-        // 숫자 조합 
+        // 숫자 조합하기
         for(int i = 1; i <= arr.length; i++) {
             permutation(0, arr.length, i);
         }
         
-        // 소수가 몇 개인지 찾기
+        // 소수가 count
         for(int num : set) {
             if(findPrimeNumber(num)) answer++;
         }
@@ -24,10 +24,10 @@ class Solution {
         return answer;
     }
     
-    // 순열
+    // 순열 만들기(1) : r은 조합할 수의 개수 
     static void permutation(int depth, int n, int r) {
         if(depth == r) {
-            // 조합한 숫자 Set에 저장 
+            // 조합한 숫자 Set에 저장(중복 제거)
             String num = "";
             for(int i = 0; i < r; i++) {
                 num += arr[i];
@@ -44,6 +44,7 @@ class Solution {
         
     }
     
+    // 순열 만들기(2) - swap
     static void swap(int depth, int index) {
         String temp = arr[depth];
         arr[depth] = arr[index];
