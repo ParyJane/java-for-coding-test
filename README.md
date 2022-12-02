@@ -33,6 +33,7 @@
   - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120852.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f01039e519d94e879e88d4f1798d66fa))
   - [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/0/120849.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/c430d356ed0a4a6ca62da4286fed43df))
   - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876):
+  - [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/tree/main/programmers/0/120880.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/26b12f65c78f4ed0b99f63ef5ea24a9c))
   
 * Level. 1
   - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/1.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/1-461e425d06394e5d9e2403aa164e83a8))
