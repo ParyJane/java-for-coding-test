@@ -15,7 +15,6 @@ class Solution {
         int[][] gap = new int[numlist.length][2];
         for(int i = 0; i < numlist.length; i++) {
             int k = Math.max(numlist[i], n) - Math.min(numlist[i], n);
-            if(k < 0) k *= -1;
             gap[i][0] = k; 
             gap[i][1] = i;
         }
