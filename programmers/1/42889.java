@@ -36,7 +36,7 @@ class Solution {
         int index = 0;
         for(Entry<Integer, Double> entry : entries) {
             answer[index++] = entry.getKey();
-		    //System.out.println(entry.getKey() + ", " + entry.getValue());
+	    //System.out.println(entry.getKey() + ", " + entry.getValue());
         }
         
         return answer;
