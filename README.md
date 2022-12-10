@@ -43,6 +43,7 @@
   - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/42576.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/90c6987a6af04b7b8955fd5b405414fd))
   - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889#): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/42889.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/fd2e07ca8a50452ebbcff78c02ff92e9))
   - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/134240.java))
+  - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256): ([Java 코드]())
   
 * Level. 2
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/TargetNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7da11b5793d4d828feaad7911e179a1))
