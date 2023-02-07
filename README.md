@@ -46,6 +46,7 @@
   - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/134240.java))
   - [과일장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/135808.java))
   - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/1/81301.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/e1e536a5a41f4b9b816152bd8b90aff8))
+  - [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/commit/90579a09df43c181b478ef654e84079641c4898f) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/b8d80f99be9944e8a0f52ae8687dcfc1))
   
 * Level. 2
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/TargetNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7da11b5793d4d828feaad7911e179a1))
