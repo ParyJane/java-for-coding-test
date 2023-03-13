@@ -53,6 +53,7 @@
   - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/TargetNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f7da11b5793d4d828feaad7911e179a1))
   - [소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/FindPrimeNumber.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/f5c6081d79ea4fc09aadc418346243af))
   - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/JadenCase.java) / [문제 풀이](https://velog.io/@p_zane/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0))
+  - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/programmers/2/repeatBinary.java) / [문제 풀이](https://velog.io/@p_zane/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9D%B4%EC%A7%84-%EB%B3%80%ED%99%98-%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0))
   
   
 ### 🎱 etc
