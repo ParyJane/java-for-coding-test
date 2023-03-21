@@ -7,7 +7,6 @@
   - [한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/bronze/14659.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/2231801702934746a40ab15fc2c54998))
   - [캠핑](https://www.acmicpc.net/problem/4796): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/bronze/4796.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/ac89e20ed9b94f95a5373d0423c0eca8))
   - [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
-  - [바이러스](https://www.acmicpc.net/problem/2606): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/2606.java) / [문제풀이]())
   
 * Silver
   - [카드 놓기](https://www.acmicpc.net/problem/5568): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/5568.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/5568-4578dfe3ddd34a29b482f87a4177f797))
@@ -20,6 +19,7 @@
   - [단지번호붙이기](https://www.acmicpc.net/problem/2667): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/2667.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/ba25299ab8b44f8da7585dbaff88f5dd))
   - [설탕 배달](https://www.acmicpc.net/problem/2839): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/2839.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/15ae6c8edfa7476bbca2ef99675201b9))
   - [나이순 정렬](https://www.acmicpc.net/problem/10814): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/10814.java) / [문제 풀이](https://bejewled-hornet-2b8.notion.site/29104f55d8ab4834afc9790188a0dfa0))
+  - [바이러스](https://www.acmicpc.net/problem/2606): ([Java 코드](https://github.com/ParyJane/java-for-coding-test/blob/main/beakjoon/silver/2606.java))
 
 
 
